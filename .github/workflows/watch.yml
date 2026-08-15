@@ -1,0 +1,55 @@
+# Lägg den här filen på sökvägen: .github/workflows/watch.yml
+name: Freerider-bevakning
+
+on:
+  schedule:
+    # Var 20:e minut, kl 06–23 svensk sommartid (tiderna anges i UTC).
+    # Vintertid: byt till "*/20 5-22 * * *" om du vill vara noggrann.
+    - cron: "*/20 4-21 * * *"
+  workflow_dispatch: {}   # gör att du kan starta manuellt via Actions-fliken
+
+permissions:
+  contents: write         # behövs för att spara state.json tillbaka till repot
+
+concurrency:
+  group: freerider-watch
+  cancel-in-progress: false
+
+jobs:
+  bevaka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - name: Hämta repot
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Cache för Playwrights webbläsare
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}
+
+      - name: Installera beroenden
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Kör bevakningen
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python freerider_watch.py
+
+      - name: Spara minne (state + ev. debug)
+        run: |
+          git config user.name  "freerider-bot"
+          git config user.email "freerider-bot@users.noreply.github.com"
+          git add state.json || true
+          [ -d debug ] && git add debug || true
+          git diff --staged --quiet || { git commit -m "uppdatera bevakningsstate [skip ci]"; git push || { git pull --rebase; git push; }; }
