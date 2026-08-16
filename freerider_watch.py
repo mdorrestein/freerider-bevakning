@@ -87,6 +87,12 @@ ORTER = {
     "linköping": (58.41, 15.62), "norrköping": (58.59, 16.19), "motala": (58.54, 15.04),
     "mjölby": (58.33, 15.13), "skövde": (58.39, 13.85), "lidköping": (58.50, 13.16),
     "mariestad": (58.71, 13.82), "falköping": (58.17, 13.55), "ulricehamn": (57.79, 13.42),
+    "älmhult": (56.55, 14.14), "arboga": (59.39, 15.84), "eslöv": (55.84, 13.30),
+    "finspång": (58.71, 15.77), "höganäs": (56.20, 12.56), "hörby": (55.85, 13.66),
+    "karlsborg": (58.53, 14.51), "karlskoga": (59.33, 14.52), "kumla": (59.13, 15.14),
+    "kungsbacka": (57.49, 12.08), "markaryd": (56.46, 13.60), "olofström": (56.28, 14.53),
+    "osby": (56.38, 13.99), "östhammar": (60.26, 18.37), "skara": (58.39, 13.44),
+    "sölvesborg": (56.05, 14.58),
 }
 
 FRAN_NYCKLAR = ("origin", "from", "pickup", "start", "departure")
