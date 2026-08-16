@@ -36,7 +36,7 @@ from playwright.sync_api import sync_playwright
 START_GRUPP = ["uppsala", "stockholm", "arlanda", "bromma"]  # där du startar och slutar
 EXKLUDERA_MAL = ["gävle"]   # destinationer du INTE vill ha (töm listan om du ångrar dig)
 MIN_RESA_KM = 50            # destinationen måste ligga minst så här långt från startgruppen
-RETUR_MAX_KM = 300          # returen får starta max så här långt (fågelvägen) från destinationen
+RETUR_MAX_KM = 70          # returen får starta max så här långt (fågelvägen) från destinationen
 RETUR_MIN_HEM_KM = 80       # ... men minst så här långt hemifrån (annars är den poänglös)
 MAX_DAGAR_MELLAN = 7        # max dagar mellan utresans sista dag och returens första
 NOTIFIERA_ENKELRESA = False  # True = larma även när bara ena riktningen finns (många notiser!)
