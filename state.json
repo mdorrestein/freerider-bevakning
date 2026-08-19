@@ -98,7 +98,12 @@
   "par:stockholm nacka (bilia)|jönköping nybergsbil / self service kiosk|2026-08-19|2026-08-19||vetlanda / volvo|stockholm bromma flygplats / self service kiosk|2026-08-18|2026-08-20",
   "par:uppsala dt/self service kiosk|göteborg västra frölunda (bilia) / self service kiosk|2026-08-17|2026-08-20||varberg & self service kiosk|stockholm lidingö / self service kiosk|2026-08-19|2026-08-20",
   "par:stockholm nacka (bilia)|jönköping nybergsbil / self service kiosk|2026-08-19|2026-08-20||vetlanda / volvo|stockholm arlanda flygplats / self service kiosk|2026-08-18|2026-08-19",
-  "par:stockholm nacka (bilia)|jönköping nybergsbil / self service kiosk|2026-08-19|2026-08-20||vetlanda / volvo|stockholm bromma flygplats / self service kiosk|2026-08-18|2026-08-20"
+  "par:stockholm nacka (bilia)|jönköping nybergsbil / self service kiosk|2026-08-19|2026-08-20||vetlanda / volvo|stockholm bromma flygplats / self service kiosk|2026-08-18|2026-08-20",
+  "par:stockholm bromma flygplats / self service kiosk|oslo lufthavn|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-21",
+  "par:stockholm bromma flygplats / self service kiosk|oslo lufthavn|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21",
+  "par:stockholm bromma flygplats / self service kiosk|oslo sentralstasjon|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-21",
+  "par:stockholm bromma flygplats / self service kiosk|oslo sentralstasjon|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21",
+  "par:stockholm bromma flygplats / self service kiosk|oslo sentrum|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-21"
  ],
  "senast_kord": "2026-08-19"
 }
