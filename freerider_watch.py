@@ -39,6 +39,8 @@ MIN_RESA_KM = 50            # destinationen måste ligga minst så här långt f
 RETUR_MAX_KM = 70          # returen får starta max så här långt (fågelvägen) från destinationen
 RETUR_MIN_HEM_KM = 80       # ... men minst så här långt hemifrån (annars är den poänglös)
 MAX_DAGAR_MELLAN = 7        # max dagar mellan utresans sista dag och returens första
+OVERNATTNING_FRAN_KM = 250   # mål minst så här långt hemifrån (fågelvägen) kräver övernattning
+OVERNATTNING_MIN_DAGAR = 1   # ...sista möjliga hemresan måste då ligga minst så här många dagar efter sista möjliga upphämtningen
 NOTIFIERA_ENKELRESA = False  # True = larma även när bara ena riktningen finns (många notiser!)
 SIDA = "https://www.hertzfreerider.se/sv-se/"
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
@@ -504,9 +506,19 @@ def datum_gar_ihop(ut, hem):
     u_sista = date.fromisoformat(ut["slut"] or ut["start"])
     h_forsta = date.fromisoformat(hem["start"] or hem["slut"])
     h_sista = date.fromisoformat(hem["slut"])
+    idag = date.today()
+    if u_sista < idag or h_sista < idag:
+        return False  # fönstret har redan passerat
     if h_sista < u_forsta:
         return False
     if (h_forsta - u_sista).days > MAX_DAGAR_MELLAN:
+        return False
+    # Mål långt hemifrån kräver övernattning: sista möjliga hemresan måste
+    # ligga minst OVERNATTNING_MIN_DAGAR efter sista möjliga upphämtningen,
+    # annars riskerar man att stå där utan rimlig väg hem.
+    avst = min_avstand_till_start(ut["till"])
+    if (avst is not None and avst >= OVERNATTNING_FRAN_KM
+            and (h_sista - u_sista).days < OVERNATTNING_MIN_DAGAR):
         return False
     return True
 
