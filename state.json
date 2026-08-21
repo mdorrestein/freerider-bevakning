@@ -149,7 +149,12 @@
   "par:stockholm arlanda flygplats / self service kiosk|umeå bilbolaget/self service kiosk|2026-08-18|2026-08-21||umeå bilbolaget/self service kiosk|stockholm centralstation / self service kiosk|2026-08-21|2026-08-21",
   "par:stockholm centralstation / self service kiosk|arvidsjaur/volvo / self service kiosk|2026-08-21|2026-08-24||arvidsjaur/volvo / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-21|2026-08-24",
   "par:stockholm centralstation / self service kiosk|umeå bilbolaget/self service kiosk|2026-08-20|2026-08-21||umeå bilbolaget/self service kiosk|stockholm centralstation / self service kiosk|2026-08-21|2026-08-21",
-  "par:uppsala dt/self service kiosk|norrköping - rejmes/ self service kiosk|2026-08-05|2026-08-21||finspång/volvo|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21"
+  "par:uppsala dt/self service kiosk|norrköping - rejmes/ self service kiosk|2026-08-05|2026-08-21||finspång/volvo|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21",
+  "par:stockholm täby (bilia)|söderhamn & self service kiosk|2026-08-21|2026-08-22||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-22",
+  "par:stockholm täby (bilia)|söderhamn & self service kiosk|2026-08-21|2026-08-22||söderhamn & self service kiosk|uppsala dt/self service kiosk|2026-08-19|2026-08-22",
+  "par:stockholm täby (bilia)|helsingborg bildeve / self service kiosk|2026-08-21|2026-08-22||ängelholm bilmånsson / self service kiosk|stockholm nacka (bilia)|2026-08-24|2026-08-26",
+  "par:stockholm täby (bilia)|helsingborg bildeve / self service kiosk|2026-08-21|2026-08-22||ängelholm bilmånsson / self service kiosk|stockholm solna bilia & ssk|2026-08-24|2026-08-26",
+  "par:stockholm arlanda flygplats / self service kiosk|linköping (tage rejmes)/ self service kiosk|2026-08-21|2026-08-21||finspång/volvo|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21"
  ],
  "senast_kord": "2026-08-21"
 }
