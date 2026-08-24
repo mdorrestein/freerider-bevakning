@@ -179,7 +179,12 @@
   "par:stockholm täby (bilia)|bollnäs & self service kiosk|2026-08-21|2026-08-24||söderhamn & self service kiosk|uppsala dt/self service kiosk|2026-08-19|2026-08-22",
   "par:stockholm täby (bilia)|hudiksvall & self service kiosk|2026-08-21|2026-08-24||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-22",
   "par:stockholm täby (bilia)|hudiksvall & self service kiosk|2026-08-21|2026-08-24||söderhamn & self service kiosk|uppsala dt/self service kiosk|2026-08-19|2026-08-22",
-  "par:stockholm centralstation / self service kiosk|arvidsjaur/volvo / self service kiosk|2026-08-21|2026-08-24||arvidsjaur/volvo / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-21|2026-08-25"
+  "par:stockholm centralstation / self service kiosk|arvidsjaur/volvo / self service kiosk|2026-08-21|2026-08-24||arvidsjaur/volvo / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-21|2026-08-25",
+  "par:stockholm arlanda flygplats / self service kiosk|luleå bilbolaget / self service kiosk|2026-08-24|2026-08-25||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-28|2026-09-01",
+  "par:stockholm arlanda flygplats / self service kiosk|luleå flygplats / self service kiosk|2026-08-24|2026-08-30||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-28|2026-09-01",
+  "par:stockholm centralstation / self service kiosk|arvidsjaur/volvo / self service kiosk|2026-08-21|2026-08-24||arvidsjaur/volvo / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-21|2026-08-27",
+  "par:stockholm centralstation / self service kiosk|luleå bilbolaget / self service kiosk|2026-08-21|2026-08-24||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-28|2026-09-01",
+  "par:stockholm hammarby sjöstad volvo car retail/self service|luleå flygplats / self service kiosk|2026-08-24|2026-08-26||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-28|2026-09-01"
  ],
  "senast_kord": "2026-08-24"
 }
