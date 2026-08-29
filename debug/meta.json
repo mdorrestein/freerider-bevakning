@@ -1,0 +1,5 @@
+{
+ "slutlig_url": "https://fracnordicid.b2clogin.com/fracnordicid.onmicrosoft.com/b2c_1a_signup_signin/oauth2/v2.0/authorize?client_id=742cb042-0b78-4488-a9bf-88bf5f7be528&scope=https%3A%2F%2Ffracnordicid.onmicrosoft.com%2F742cb042-0b78-4488-a9bf-88bf5f7be528%2FFreeriders.All%20https%3A%2F%2Ffracnordicid.onmicrosoft.com%2F742cb042-0b78-4488-a9bf-88bf5f7be528%2FReservations.All%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fwww.hertzfreerider.se%2F&client-request-id=25c7f408-34f9-49ea-8320-69467da47c14&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.39.0&client_info=1&code_challenge=JRBqh7k5jryKBXwPhknBUfNPXv51smB3RRBHwbwq-xg&code_challenge_method=S256&nonce=5020eb9c-c6fa-4392-a725-ae633847d45e&state=eyJpZCI6IjcxZDQ1ODIwLWQzMWYtNDBjMC1hY2UzLTMwZDYwZDI4NDNlMiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D",
+ "kravde_inloggning": true,
+ "inloggad": false
+}
