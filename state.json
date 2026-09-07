@@ -236,7 +236,11 @@
   "par:stockholm arlanda flygplats / self service kiosk|piteå / volvo|2026-08-28|2026-09-02||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-31|2026-09-03",
   "par:stockholm arlanda flygplats / self service kiosk|motala / volvo|2026-08-30|2026-09-02||linköping (tage rejmes)/ self service kiosk|stockholm östermalmstorg|2026-09-01|2026-09-03",
   "par:uppsala dt/self service kiosk|luleå flygplats / self service kiosk|2026-08-28|2026-09-04||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-31|2026-09-06",
-  "par:stockholm centralstation / self service kiosk|västerås bilia/self service kiosk|2026-09-08|2026-09-08||eskilstuna / bilia|stockholm arlanda flygplats / self service kiosk|2026-09-03|2026-09-08"
+  "par:stockholm centralstation / self service kiosk|västerås bilia/self service kiosk|2026-09-08|2026-09-08||eskilstuna / bilia|stockholm arlanda flygplats / self service kiosk|2026-09-03|2026-09-08",
+  "par:stockholm arlanda flygplats / self service kiosk|eskilstuna / bilia|2026-09-07|2026-09-07||eskilstuna / bilia|stockholm arlanda flygplats / self service kiosk|2026-09-03|2026-09-08",
+  "par:stockholm kista volvo car retail / self service kiosk|bollnäs & self service kiosk|2026-09-07|2026-09-09||bollnäs & self service kiosk|stockholm lidingö / self service kiosk|2026-08-25|2026-09-08",
+  "par:stockholm kista volvo car retail / self service kiosk|söderhamn & self service kiosk|2026-09-07|2026-09-09||bollnäs & self service kiosk|stockholm lidingö / self service kiosk|2026-08-25|2026-09-08",
+  "par:stockholm kista volvo car retail / self service kiosk|hudiksvall & self service kiosk|2026-09-07|2026-09-09||bollnäs & self service kiosk|stockholm lidingö / self service kiosk|2026-08-25|2026-09-08"
  ],
- "senast_kord": "2026-09-06"
+ "senast_kord": "2026-09-07"
 }
