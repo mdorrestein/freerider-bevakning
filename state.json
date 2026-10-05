@@ -263,7 +263,11 @@
   "par:uppsala dt/self service kiosk|mora dt|2026-09-22|2026-09-24||mora dt|stockholm arlanda flygplats / self service kiosk|2026-09-22|2026-09-24",
   "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-10-01|2026-10-02||mora dt|stockholm arlanda flygplats / self service kiosk|2026-09-29|2026-10-02",
   "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-10-01|2026-10-02||mora dt|stockholm centralstation / self service kiosk|2026-09-29|2026-10-02",
-  "par:stockholm arlanda flygplats / self service kiosk|linköping (tage rejmes)/ self service kiosk|2026-10-04|2026-10-05||linköping (tage rejmes)/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-05|2026-10-05"
+  "par:stockholm arlanda flygplats / self service kiosk|linköping (tage rejmes)/ self service kiosk|2026-10-04|2026-10-05||linköping (tage rejmes)/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-05|2026-10-05",
+  "par:stockholm solna bilia & ssk|nyköping & self service kiosk|2026-10-05|2026-10-07||nyköping & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-01|2026-10-06",
+  "par:stockholm östermalmstorg|kalmar self service kiosk|2026-10-05|2026-10-05||kalmar self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-05|2026-10-06",
+  "par:stockholm solna bilia & ssk|nyköping & self service kiosk|2026-10-05|2026-10-07||norrköping - rejmes/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-05|2026-10-06",
+  "par:stockholm solna bilia & ssk|nyköping & self service kiosk|2026-10-05|2026-10-07||katrineholm|stockholm arlanda flygplats / self service kiosk|2026-10-01|2026-10-06"
  ],
- "senast_kord": "2026-10-04"
+ "senast_kord": "2026-10-05"
 }
