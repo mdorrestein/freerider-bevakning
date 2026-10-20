@@ -1,7 +1,5 @@
 {
  "larmade": [
-  "par:stockholm centralstation / self service kiosk|örnsköldsvik bilbolaget / self service kiosk|2026-08-14|2026-08-16||skellefteå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-12|2026-08-17",
-  "par:uppsala dt/self service kiosk|norrköping - rejmes/ self service kiosk|2026-07-31|2026-08-18||gävle bilbolaget / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-17",
   "par:stockholm täby (bilia)|skellefteå & self service kiosk|2026-08-17|2026-08-19||skellefteå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-12|2026-08-17",
   "par:stockholm täby (bilia)|skellefteå & self service kiosk|2026-08-17|2026-08-19||skellefteå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-12|2026-08-18",
   "par:uppsala dt/self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-18||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-17",
@@ -299,7 +297,9 @@
   "par:stockholm täby (bilia)|sundsvall bilbolaget/self service kiosk|2026-10-16|2026-10-19||sundsvall bilbolaget/self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-19|2026-10-20",
   "par:stockholm centralstation / self service kiosk|norrköping - rejmes/ self service kiosk|2026-10-13|2026-10-21||linköping (tage rejmes)/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-19|2026-10-20",
   "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-19|2026-10-20||karlsborg pick up|stockholm arlanda flygplats / self service kiosk|2026-10-19|2026-10-21",
-  "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-19|2026-10-20||karlsborg pick up|stockholm centralstation / self service kiosk|2026-10-19|2026-10-21"
+  "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-19|2026-10-20||karlsborg pick up|stockholm centralstation / self service kiosk|2026-10-19|2026-10-21",
+  "par:stockholm arlanda flygplats / self service kiosk|norrköping - rejmes/ self service kiosk|2026-10-19|2026-10-21||norrköping - rejmes/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-19|2026-10-20",
+  "par:stockholm arlanda flygplats / self service kiosk|norrköping - rejmes/ self service kiosk|2026-10-19|2026-10-21||linköping (tage rejmes)/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-10-19|2026-10-20"
  ],
- "senast_kord": "2026-10-19"
+ "senast_kord": "2026-10-20"
 }
