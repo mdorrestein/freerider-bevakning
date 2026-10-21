@@ -42,6 +42,13 @@ MAX_DAGAR_MELLAN = 7        # max dagar mellan utresans sista dag och returens f
 OVERNATTNING_FRAN_KM = 250   # mål minst så här långt hemifrån (fågelvägen) kräver övernattning
 OVERNATTNING_MIN_DAGAR = 1   # ...sista möjliga hemresan måste då ligga minst så här många dagar efter sista möjliga upphämtningen
 NOTIFIERA_ENKELRESA = False  # True = larma även när bara ena riktningen finns (många notiser!)
+
+# Specifika enkelsträckor att bevaka, oberoende av tur & retur-logiken ovan.
+# Varje rad: (namn, [ord som ska finnas i FRÅN-stationen], [ord som ska finnas i TILL-stationen])
+SPECIFIKA_STRACKOR = [
+    ("Kiruna → Luleå",    ["kiruna"],    ["luleå", "kallax"]),
+    ("Gällivare → Luleå", ["gällivare", "gallivare"], ["luleå", "lulea", "kallax"]),
+]
 SIDA = "https://www.hertzfreerider.se/sv-se/"
 NTFY_TOPIC = os.environ.get("NTFY_TOPIC", "").strip()
 FREERIDER_EMAIL = os.environ.get("FREERIDER_EMAIL", "").strip()
@@ -651,6 +658,20 @@ def main():
         extra = f"\n\n... och {len(nya_par) - 5} par till – se sajten!" if len(nya_par) > 5 else ""
         notisa("🚗 Tur & retur hittad på Freerider!",
                "\n\n".join(rader) + extra + "\n\nFörst till kvarn – boka direkt!")
+
+    # ---- Specifika enkelsträckor (t.ex. Kiruna → Luleå) ----
+    idag_iso = date.today().isoformat()
+    for namn, fran_ord, till_ord in SPECIFIKA_STRACKOR:
+        traffar = [e for e in erbjudanden
+                   if i_grupp(e["fran"], fran_ord) and i_grupp(e["till"], till_ord)
+                   and not (e["slut"] and e["slut"] < idag_iso)]
+        nya = [e for e in traffar if f"strack:{nyckel(e)}" not in state["larmade"]]
+        if nya:
+            notisa(f"🚗 {namn} på Freerider!",
+                   "\n".join(beskriv(e) for e in nya[:5])
+                   + "\n\nFörst till kvarn – boka direkt!")
+            for e in nya:
+                state["larmade"].append(f"strack:{nyckel(e)}")
 
     if NOTIFIERA_ENKELRESA:
         for e in utresor + returer:
