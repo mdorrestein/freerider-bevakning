@@ -1,6 +1,5 @@
 {
  "larmade": [
-  "par:uppsala dt/self service kiosk|karlshamn ahlberg bil / self service kiosk|2026-08-06|2026-08-19||älmhult / volvo|stockholm solna bilia & ssk|2026-08-17|2026-08-21",
   "par:uppsala dt/self service kiosk|göteborg västra frölunda (bilia) / self service kiosk|2026-08-17|2026-08-18||varberg & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-18",
   "par:stockholm centralstation / self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-19||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-13|2026-08-22",
   "par:stockholm centralstation / self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-19||luleå flygplats / self service kiosk|stockholm lidingö / self service kiosk|2026-08-17|2026-08-17",
@@ -299,7 +298,8 @@
   "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-21|2026-10-22||lidköping|stockholm arlanda flygplats / self service kiosk|2026-10-21|2026-10-24",
   "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-21|2026-10-22||lidköping|stockholm centralstation / self service kiosk|2026-10-21|2026-10-24",
   "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-21|2026-10-22||lidköping|uppsala dt/self service kiosk|2026-10-21|2026-10-24",
-  "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-21|2026-10-25||skara brandt pick up|stockholm arlanda flygplats / self service kiosk|2026-10-26|2026-10-29"
+  "par:stockholm centralstation / self service kiosk|skövde dt & self service kiosk brandt|2026-10-21|2026-10-25||skara brandt pick up|stockholm arlanda flygplats / self service kiosk|2026-10-26|2026-10-29",
+  "strack:gällivare dt|luleå flygplats / self service kiosk|2026-10-26|2026-10-30"
  ],
  "senast_kord": "2026-10-26"
 }
