@@ -1,1 +1,944 @@
-[]
+[
+ {
+  "url": "https://www.hertzfreerider.se/page-data/sv-se/page-data.json",
+  "json": {
+   "componentChunkName": "component---src-templates-start-tsx",
+   "path": "/sv-se/",
+   "result": {
+    "data": {
+     "prismicStart": {
+      "id": "c0af11b3-67b8-5a45-93af-079044bb5772",
+      "lang": "sv-se",
+      "type": "start",
+      "data": {
+       "body": [
+        {
+         "id": "search_travel$c7831820-281b-4f10-8fa7-fd6a2a41b0e6",
+         "slice_type": "search_travel",
+         "primary": {
+          "show_more": {
+           "text": "Visa alla tillgängliga bilar"
+          },
+          "book_link": {
+           "text": "Boka"
+          },
+          "no_matching_cars": {
+           "text": "Inga bilar matchade ditt val"
+          },
+          "from": {
+           "text": "Från"
+          },
+          "from_field_placeholder": {
+           "text": "Någonstans"
+          },
+          "station_counter": {
+           "text": "tillgängliga"
+          },
+          "to": {
+           "text": "Till"
+          },
+          "to_field_placeholder": {
+           "text": "Var som helst"
+          }
+         }
+        },
+        {
+         "id": "selected_car_drawer$7e1b45e1-905f-4ab7-8459-c027cb431d49",
+         "slice_type": "selected_car_drawer",
+         "primary": {
+          "available_title": {
+           "text": "Tillgänglig från"
+          },
+          "expire_title": {
+           "text": "Erbjudandet går ut "
+          },
+          "max_distance_title": {
+           "text": "Max körsträcka"
+          },
+          "max_time_title": {
+           "text": "Max körtid"
+          },
+          "book_button": {
+           "text": "Börja boka den här bilen"
+          },
+          "login_button": {
+           "text": "Logga in för att börja boka den här bilen"
+          },
+          "close_button": {
+           "text": "Stäng"
+          }
+         }
+        }
+       ],
+       "hero_image": {
+        "alt": null,
+        "localFile": {
+         "publicURL": "/static/c54eb8f48b0181c4f4aa25feb648686f/4e87a460-c07d-4b60-b806-e0a03570d217_hero.png"
+        }
+       },
+       "title_underlined": {
+        "text": "gratis"
+       },
+       "title": {
+        "text": "Kör en bil"
+       }
+      }
+     },
+     "prismicMenu": {
+      "data": {
+       "logo": {
+        "localFile": {
+         "publicURL": "/static/6bc0233a9f44e7357696aba317040a6e/00b5f18d-5702-4519-9bce-2346042e33ae_hertz_freerider_logo.svg"
+        }
+       },
+       "menu_links": [
+        {
+         "link_label": {
+          "text": "Hem"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "start",
+           "lang": "sv-se"
+          }
+         }
+        },
+        {
+         "link_label": {
+          "text": "Mina bokningar"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "my_bookings",
+           "lang": "sv-se"
+          }
+         }
+        },
+        {
+         "link_label": {
+          "text": "FAQ"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "faq_and_rules",
+           "lang": "sv-se"
+          }
+         }
+        }
+       ],
+       "login_or_join": {
+        "text": "Logga in eller registrera dig"
+       },
+       "logout": {
+        "text": "Logga ut"
+       },
+       "profile": {
+        "text": "Profil"
+       }
+      }
+     },
+     "prismicBottomNavigation": {
+      "data": {
+       "menu_links": [
+        {
+         "link_label": {
+          "text": "Mina bokningar"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "my_bookings",
+           "lang": "sv-se"
+          },
+          "type": "my_bookings"
+         },
+         "icon": {
+          "localFile": {
+           "publicURL": "/static/55934a4b026226fac3f64ca0c0a64db0/5085df2f-6e9e-41c5-8379-82734f656d90_car_icon.svg"
+          }
+         },
+         "icon_active": {
+          "localFile": {
+           "publicURL": "/static/94ed71ec86555893e07fe8665b4fae79/65fc5e14-3dee-4a4b-9d9d-cf9c94c77496_car_icon_active.svg"
+          }
+         }
+        },
+        {
+         "link_label": {
+          "text": "Profil"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "profile",
+           "lang": "sv-se"
+          },
+          "type": "profile"
+         },
+         "icon": {
+          "localFile": {
+           "publicURL": "/static/2d03fadf8eb57bc4f09f364a020ce822/578a71d6-f398-4e9f-bee4-6583e2b827d8_human_icon.svg"
+          }
+         },
+         "icon_active": {
+          "localFile": {
+           "publicURL": "/static/86f87156110a031ae6a42184eaa28623/75921508-8f9a-4519-bfa1-d5c2fd283d5f_human_icon_active.svg"
+          }
+         }
+        }
+       ]
+      }
+     },
+     "prismicFooter": {
+      "data": {
+       "footer_policy_terms_links": [
+        {
+         "label": {
+          "text": "Integritetspolicy"
+         },
+         "page_link": {
+          "url": " https://www.hertz.se/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp",
+          "type": null
+         }
+        },
+        {
+         "label": {
+          "text": "Allmänna regler & villkor"
+         },
+         "page_link": {
+          "url": "/terms-and-conditions/sv-se",
+          "type": "terms_and_conditions"
+         }
+        }
+       ],
+       "footer_links": [
+        {
+         "label": {
+          "text": "Frågor som rör Hertz Freerider hänvisas till mail: hertzfreerider@hertz.se"
+         },
+         "link": {
+          "url": "mailto:hertzfreerider@hertz.se",
+          "type": null
+         }
+        },
+        {
+         "label": {
+          "text": "FAQ"
+         },
+         "link": {
+          "url": "/faq/sv-se",
+          "type": "faq_and_rules"
+         }
+        }
+       ],
+       "links": {
+        "text": "Länkar"
+       },
+       "logo": {
+        "alt": "Hertz Freerider Logo",
+        "localFile": {
+         "publicURL": "/static/6bc0233a9f44e7357696aba317040a6e/00b5f18d-5702-4519-9bce-2346042e33ae_hertz_freerider_logo.svg"
+        }
+       },
+       "socialmedia": {
+        "text": "Följ oss i sociala medier"
+       },
+       "social_media": [
+        {
+         "label": {
+          "text": "Instagram"
+         },
+         "link": {
+          "url": "https://www.instagram.com/hertzsverige/"
+         },
+         "social_logo": {
+          "alt": "Instagram",
+          "localFile": {
+           "publicURL": "/static/2e00baae76b3e69796b1043ca8698115/f78e7442-7efd-49bf-8d5c-ea46de8a59f3_instagram.svg"
+          }
+         }
+        },
+        {
+         "label": {
+          "text": "Facebook"
+         },
+         "link": {
+          "url": "https://www.facebook.com/hertzsverige "
+         },
+         "social_logo": {
+          "alt": "Facebook",
+          "localFile": {
+           "publicURL": "/static/f90d8f6c2b0f84bced5dd8a3189bdd14/1aec4a08-8b77-4eaf-a42f-336a832c813e_facebook.svg"
+          }
+         }
+        },
+        {
+         "label": {
+          "text": "LinkedIn"
+         },
+         "link": {
+          "url": "https://www.linkedin.com/company/hertzsverige/"
+         },
+         "social_logo": {
+          "alt": "LinkedIn",
+          "localFile": {
+           "publicURL": "/static/da08121b5040495137cbecc3f55e4738/88f5ad8b-f90b-4020-b0e8-e30d89756514_linkedin.svg"
+          }
+         }
+        }
+       ],
+       "company_info": [
+        {
+         "info_text": {
+          "text": "Hertz International"
+         }
+        },
+        {
+         "info_text": {
+          "text": "First Rent a Car AB"
+         }
+        },
+        {
+         "info_text": {
+          "text": "Org.nr 556434-7820"
+         }
+        },
+        {
+         "info_text": {
+          "text": "Hertz International Franchisee"
+         }
+        }
+       ]
+      }
+     },
+     "prismicGlobal": {
+      "data": {
+       "loading_text": {
+        "text": "Laddar"
+       },
+       "body": [
+        {
+         "id": "user_info_banner$0476af89-b166-42d0-9d09-e2834b538ff5",
+         "slice_type": "user_info_banner",
+         "primary": {
+          "user_info_banner_pending_title": {
+           "text": "Du måste fylla i din profil"
+          },
+          "user_info_banner_pending_text_without_link": {
+           "text": "För att använda Freerider-tjänsten måste du fylla i din profil nedan"
+          },
+          "user_info_banner_pending_text_with_link": {
+           "text": "För att använda Freerider-tjänsten behöver du"
+          },
+          "user_info_banner_link_text": {
+           "text": "för att slutföra din profil"
+          },
+          "user_info_banner_warned_title": {
+           "text": "Du har missbrukat den här tjänsten och har blivit varnad"
+          },
+          "user_info_banner_warned_text": {
+           "text": "Enligt våra villkor har du inte använt Freerider på rätt sätt. Kontrollera din e-post för mer information.."
+          },
+          "user_info_banner_suspended_title": {
+           "text": "Du är avstängd och kan inte hyra bil genom Freerider."
+          },
+          "user_info_banner_suspended_text": {
+           "text": "Du har missbrukat Freerider enligt våra villkor och är nu avstängd från att använda tjänsten. Du kan inte hyra en bil genom Freerider. Kontrollera din e-post för mer information."
+          }
+         }
+        },
+        {
+         "id": "system_info_banner$fcebcaa4-5f21-4e01-9b24-04e756ed532f",
+         "slice_type": "system_info_banner",
+         "primary": {
+          "title": {
+           "text": "Välkommen till nya Freerider"
+          },
+          "text": {
+           "text": "Freerider har precis uppdaterats. Om du har reservationer från gamla Freerider eller letar efter mer information, läs vår FAQ..",
+           "html": "<p>Freerider har precis uppdaterats. Om du har reservationer från gamla Freerider eller letar efter mer information, läs vår FAQ..</p>"
+          },
+          "link_button_label": {
+           "text": "Läs vår FAQ"
+          },
+          "link_button_link": {
+           "url": "/faq/sv-se",
+           "type": "faq_and_rules"
+          },
+          "close_button_label": {
+           "text": "Stäng"
+          },
+          "show_banner": true
+         }
+        },
+        {
+         "id": "system_info_dialog$926d56e2-0dd9-44a9-b8b1-7997084001d9",
+         "slice_type": "system_info_dialog",
+         "primary": {
+          "title": {
+           "text": null
+          },
+          "text": {
+           "html": null
+          },
+          "button_label": {
+           "text": null
+          },
+          "show_dialog": false
+         }
+        },
+        {
+         "id": "suspended_user_dialog$b4024281-bbde-46ce-a782-c203ca616dd3",
+         "slice_type": "suspended_user_dialog",
+         "primary": {
+          "suspended_user_dialog_title": {
+           "text": "Du är avstängd."
+          },
+          "suspended_user_dialog_text": {
+           "html": "<p>Vi beklagar men vi har märkt att du har blivit avstängd på den tidigare versionen av Freerider. Du kommer inte att kunna använda Freerider-tjänsten för tillfället. För ytterligare information kontakta kundtjänst.</p>"
+          },
+          "suspended_user_dialog_contact_text": {
+           "text": "Skicka e-post till"
+          },
+          "suspended_user_dialog_contact_mail": {
+           "text": "customerrelations@hertz.se"
+          },
+          "suspended_user_dialog_button_text": {
+           "text": "OK"
+          }
+         }
+        },
+        {
+         "id": "location_info_dialog$71ebacf4-d9a1-4371-b000-698830ad5a5f",
+         "slice_type": "location_info_dialog",
+         "primary": {
+          "pickup_title": {
+           "text": "Upphämtningsinformation"
+          },
+          "return_title": {
+           "text": "Återlämningsinformation"
+          },
+          "location_title": {
+           "text": "Upphämtningsplats"
+          },
+          "show_on_map_button_label": {
+           "text": "Visa på karta"
+          },
+          "opening_hours_title": {
+           "text": "Öppettider"
+          },
+          "opening_hours_closed_label": {
+           "text": "Stängt"
+          },
+          "station_info_title": {
+           "text": "Information från station"
+          },
+          "info_pickup_label": {
+           "text": "Viktig information om din upphämtning"
+          },
+          "info_location_label": {
+           "text": "Stationsinformation"
+          },
+          "info_parking_label": {
+           "text": "Parkeringsinformation"
+          },
+          "info_how_to_return_label": {
+           "text": "Hur återlämnar jag bilen"
+          },
+          "close_button_label": {
+           "text": "Stäng"
+          }
+         }
+        }
+       ]
+      }
+     }
+    },
+    "pageContext": {
+     "lang": "sv-se",
+     "type": "start",
+     "url": "/sv-se"
+    }
+   },
+   "staticQueryHashes": [],
+   "slicesMap": {}
+  }
+ },
+ {
+  "url": "https://www.hertzfreerider.se/page-data/app-data.json",
+  "json": {
+   "webpackCompilationHash": "3652afc9441d8d08e100"
+  }
+ },
+ {
+  "url": "https://www.hertzfreerider.se/page-data/sv-se/page-data.json",
+  "json": {
+   "componentChunkName": "component---src-templates-start-tsx",
+   "path": "/sv-se/",
+   "result": {
+    "data": {
+     "prismicStart": {
+      "id": "c0af11b3-67b8-5a45-93af-079044bb5772",
+      "lang": "sv-se",
+      "type": "start",
+      "data": {
+       "body": [
+        {
+         "id": "search_travel$c7831820-281b-4f10-8fa7-fd6a2a41b0e6",
+         "slice_type": "search_travel",
+         "primary": {
+          "show_more": {
+           "text": "Visa alla tillgängliga bilar"
+          },
+          "book_link": {
+           "text": "Boka"
+          },
+          "no_matching_cars": {
+           "text": "Inga bilar matchade ditt val"
+          },
+          "from": {
+           "text": "Från"
+          },
+          "from_field_placeholder": {
+           "text": "Någonstans"
+          },
+          "station_counter": {
+           "text": "tillgängliga"
+          },
+          "to": {
+           "text": "Till"
+          },
+          "to_field_placeholder": {
+           "text": "Var som helst"
+          }
+         }
+        },
+        {
+         "id": "selected_car_drawer$7e1b45e1-905f-4ab7-8459-c027cb431d49",
+         "slice_type": "selected_car_drawer",
+         "primary": {
+          "available_title": {
+           "text": "Tillgänglig från"
+          },
+          "expire_title": {
+           "text": "Erbjudandet går ut "
+          },
+          "max_distance_title": {
+           "text": "Max körsträcka"
+          },
+          "max_time_title": {
+           "text": "Max körtid"
+          },
+          "book_button": {
+           "text": "Börja boka den här bilen"
+          },
+          "login_button": {
+           "text": "Logga in för att börja boka den här bilen"
+          },
+          "close_button": {
+           "text": "Stäng"
+          }
+         }
+        }
+       ],
+       "hero_image": {
+        "alt": null,
+        "localFile": {
+         "publicURL": "/static/c54eb8f48b0181c4f4aa25feb648686f/4e87a460-c07d-4b60-b806-e0a03570d217_hero.png"
+        }
+       },
+       "title_underlined": {
+        "text": "gratis"
+       },
+       "title": {
+        "text": "Kör en bil"
+       }
+      }
+     },
+     "prismicMenu": {
+      "data": {
+       "logo": {
+        "localFile": {
+         "publicURL": "/static/6bc0233a9f44e7357696aba317040a6e/00b5f18d-5702-4519-9bce-2346042e33ae_hertz_freerider_logo.svg"
+        }
+       },
+       "menu_links": [
+        {
+         "link_label": {
+          "text": "Hem"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "start",
+           "lang": "sv-se"
+          }
+         }
+        },
+        {
+         "link_label": {
+          "text": "Mina bokningar"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "my_bookings",
+           "lang": "sv-se"
+          }
+         }
+        },
+        {
+         "link_label": {
+          "text": "FAQ"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "faq_and_rules",
+           "lang": "sv-se"
+          }
+         }
+        }
+       ],
+       "login_or_join": {
+        "text": "Logga in eller registrera dig"
+       },
+       "logout": {
+        "text": "Logga ut"
+       },
+       "profile": {
+        "text": "Profil"
+       }
+      }
+     },
+     "prismicBottomNavigation": {
+      "data": {
+       "menu_links": [
+        {
+         "link_label": {
+          "text": "Mina bokningar"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "my_bookings",
+           "lang": "sv-se"
+          },
+          "type": "my_bookings"
+         },
+         "icon": {
+          "localFile": {
+           "publicURL": "/static/55934a4b026226fac3f64ca0c0a64db0/5085df2f-6e9e-41c5-8379-82734f656d90_car_icon.svg"
+          }
+         },
+         "icon_active": {
+          "localFile": {
+           "publicURL": "/static/94ed71ec86555893e07fe8665b4fae79/65fc5e14-3dee-4a4b-9d9d-cf9c94c77496_car_icon_active.svg"
+          }
+         }
+        },
+        {
+         "link_label": {
+          "text": "Profil"
+         },
+         "page_link": {
+          "link_type": "Document",
+          "document": {
+           "type": "profile",
+           "lang": "sv-se"
+          },
+          "type": "profile"
+         },
+         "icon": {
+          "localFile": {
+           "publicURL": "/static/2d03fadf8eb57bc4f09f364a020ce822/578a71d6-f398-4e9f-bee4-6583e2b827d8_human_icon.svg"
+          }
+         },
+         "icon_active": {
+          "localFile": {
+           "publicURL": "/static/86f87156110a031ae6a42184eaa28623/75921508-8f9a-4519-bfa1-d5c2fd283d5f_human_icon_active.svg"
+          }
+         }
+        }
+       ]
+      }
+     },
+     "prismicFooter": {
+      "data": {
+       "footer_policy_terms_links": [
+        {
+         "label": {
+          "text": "Integritetspolicy"
+         },
+         "page_link": {
+          "url": " https://www.hertz.se/rentacar/privacypolicy/index.jsp?targetPage=privacyPolicyView.jsp",
+          "type": null
+         }
+        },
+        {
+         "label": {
+          "text": "Allmänna regler & villkor"
+         },
+         "page_link": {
+          "url": "/terms-and-conditions/sv-se",
+          "type": "terms_and_conditions"
+         }
+        }
+       ],
+       "footer_links": [
+        {
+         "label": {
+          "text": "Frågor som rör Hertz Freerider hänvisas till mail: hertzfreerider@hertz.se"
+         },
+         "link": {
+          "url": "mailto:hertzfreerider@hertz.se",
+          "type": null
+         }
+        },
+        {
+         "label": {
+          "text": "FAQ"
+         },
+         "link": {
+          "url": "/faq/sv-se",
+          "type": "faq_and_rules"
+         }
+        }
+       ],
+       "links": {
+        "text": "Länkar"
+       },
+       "logo": {
+        "alt": "Hertz Freerider Logo",
+        "localFile": {
+         "publicURL": "/static/6bc0233a9f44e7357696aba317040a6e/00b5f18d-5702-4519-9bce-2346042e33ae_hertz_freerider_logo.svg"
+        }
+       },
+       "socialmedia": {
+        "text": "Följ oss i sociala medier"
+       },
+       "social_media": [
+        {
+         "label": {
+          "text": "Instagram"
+         },
+         "link": {
+          "url": "https://www.instagram.com/hertzsverige/"
+         },
+         "social_logo": {
+          "alt": "Instagram",
+          "localFile": {
+           "publicURL": "/static/2e00baae76b3e69796b1043ca8698115/f78e7442-7efd-49bf-8d5c-ea46de8a59f3_instagram.svg"
+          }
+         }
+        },
+        {
+         "label": {
+          "text": "Facebook"
+         },
+         "link": {
+          "url": "https://www.facebook.com/hertzsverige "
+         },
+         "social_logo": {
+          "alt": "Facebook",
+          "localFile": {
+           "publicURL": "/static/f90d8f6c2b0f84bced5dd8a3189bdd14/1aec4a08-8b77-4eaf-a42f-336a832c813e_facebook.svg"
+          }
+         }
+        },
+        {
+         "label": {
+          "text": "LinkedIn"
+         },
+         "link": {
+          "url": "https://www.linkedin.com/company/hertzsverige/"
+         },
+         "social_logo": {
+          "alt": "LinkedIn",
+          "localFile": {
+           "publicURL": "/static/da08121b5040495137cbecc3f55e4738/88f5ad8b-f90b-4020-b0e8-e30d89756514_linkedin.svg"
+          }
+         }
+        }
+       ],
+       "company_info": [
+        {
+         "info_text": {
+          "text": "Hertz International"
+         }
+        },
+        {
+         "info_text": {
+          "text": "First Rent a Car AB"
+         }
+        },
+        {
+         "info_text": {
+          "text": "Org.nr 556434-7820"
+         }
+        },
+        {
+         "info_text": {
+          "text": "Hertz International Franchisee"
+         }
+        }
+       ]
+      }
+     },
+     "prismicGlobal": {
+      "data": {
+       "loading_text": {
+        "text": "Laddar"
+       },
+       "body": [
+        {
+         "id": "user_info_banner$0476af89-b166-42d0-9d09-e2834b538ff5",
+         "slice_type": "user_info_banner",
+         "primary": {
+          "user_info_banner_pending_title": {
+           "text": "Du måste fylla i din profil"
+          },
+          "user_info_banner_pending_text_without_link": {
+           "text": "För att använda Freerider-tjänsten måste du fylla i din profil nedan"
+          },
+          "user_info_banner_pending_text_with_link": {
+           "text": "För att använda Freerider-tjänsten behöver du"
+          },
+          "user_info_banner_link_text": {
+           "text": "för att slutföra din profil"
+          },
+          "user_info_banner_warned_title": {
+           "text": "Du har missbrukat den här tjänsten och har blivit varnad"
+          },
+          "user_info_banner_warned_text": {
+           "text": "Enligt våra villkor har du inte använt Freerider på rätt sätt. Kontrollera din e-post för mer information.."
+          },
+          "user_info_banner_suspended_title": {
+           "text": "Du är avstängd och kan inte hyra bil genom Freerider."
+          },
+          "user_info_banner_suspended_text": {
+           "text": "Du har missbrukat Freerider enligt våra villkor och är nu avstängd från att använda tjänsten. Du kan inte hyra en bil genom Freerider. Kontrollera din e-post för mer information."
+          }
+         }
+        },
+        {
+         "id": "system_info_banner$fcebcaa4-5f21-4e01-9b24-04e756ed532f",
+         "slice_type": "system_info_banner",
+         "primary": {
+          "title": {
+           "text": "Välkommen till nya Freerider"
+          },
+          "text": {
+           "text": "Freerider har precis uppdaterats. Om du har reservationer från gamla Freerider eller letar efter mer information, läs vår FAQ..",
+           "html": "<p>Freerider har precis uppdaterats. Om du har reservationer från gamla Freerider eller letar efter mer information, läs vår FAQ..</p>"
+          },
+          "link_button_label": {
+           "text": "Läs vår FAQ"
+          },
+          "link_button_link": {
+           "url": "/faq/sv-se",
+           "type": "faq_and_rules"
+          },
+          "close_button_label": {
+           "text": "Stäng"
+          },
+          "show_banner": true
+         }
+        },
+        {
+         "id": "system_info_dialog$926d56e2-0dd9-44a9-b8b1-7997084001d9",
+         "slice_type": "system_info_dialog",
+         "primary": {
+          "title": {
+           "text": null
+          },
+          "text": {
+           "html": null
+          },
+          "button_label": {
+           "text": null
+          },
+          "show_dialog": false
+         }
+        },
+        {
+         "id": "suspended_user_dialog$b4024281-bbde-46ce-a782-c203ca616dd3",
+         "slice_type": "suspended_user_dialog",
+         "primary": {
+          "suspended_user_dialog_title": {
+           "text": "Du är avstängd."
+          },
+          "suspended_user_dialog_text": {
+           "html": "<p>Vi beklagar men vi har märkt att du har blivit avstängd på den tidigare versionen av Freerider. Du kommer inte att kunna använda Freerider-tjänsten för tillfället. För ytterligare information kontakta kundtjänst.</p>"
+          },
+          "suspended_user_dialog_contact_text": {
+           "text": "Skicka e-post till"
+          },
+          "suspended_user_dialog_contact_mail": {
+           "text": "customerrelations@hertz.se"
+          },
+          "suspended_user_dialog_button_text": {
+           "text": "OK"
+          }
+         }
+        },
+        {
+         "id": "location_info_dialog$71ebacf4-d9a1-4371-b000-698830ad5a5f",
+         "slice_type": "location_info_dialog",
+         "primary": {
+          "pickup_title": {
+           "text": "Upphämtningsinformation"
+          },
+          "return_title": {
+           "text": "Återlämningsinformation"
+          },
+          "location_title": {
+           "text": "Upphämtningsplats"
+          },
+          "show_on_map_button_label": {
+           "text": "Visa på karta"
+          },
+          "opening_hours_title": {
+           "text": "Öppettider"
+          },
+          "opening_hours_closed_label": {
+           "text": "Stängt"
+          },
+          "station_info_title": {
+           "text": "Information från station"
+          },
+          "info_pickup_label": {
+           "text": "Viktig information om din upphämtning"
+          },
+          "info_location_label": {
+           "text": "Stationsinformation"
+          },
+          "info_parking_label": {
+           "text": "Parkeringsinformation"
+          },
+          "info_how_to_return_label": {
+           "text": "Hur återlämnar jag bilen"
+          },
+          "close_button_label": {
+           "text": "Stäng"
+          }
+         }
+        }
+       ]
+      }
+     }
+    },
+    "pageContext": {
+     "lang": "sv-se",
+     "type": "start",
+     "url": "/sv-se"
+    }
+   },
+   "staticQueryHashes": [],
+   "slicesMap": {}
+  }
+ }
+]
