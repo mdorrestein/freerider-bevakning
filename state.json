@@ -1,7 +1,5 @@
 {
  "larmade": [
-  "par:stockholm centralstation / self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-19||luleå bilbolaget / self service kiosk|stockholm centralstation / self service kiosk|2026-08-17|2026-08-19",
-  "par:stockholm centralstation / self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-19||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-13|2026-08-19",
   "par:stockholm centralstation / self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-19||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-16|2026-08-19",
   "par:stockholm centralstation / self service kiosk|oslo alnabru|2026-08-17|2026-08-19||oslo lufthavn|stockholm östermalmstorg|2026-08-17|2026-08-20",
   "par:stockholm centralstation / self service kiosk|oslo lufthavn|2026-08-17|2026-08-19||oslo lufthavn|stockholm östermalmstorg|2026-08-17|2026-08-20",
@@ -299,7 +297,9 @@
   "par:stockholm arlanda flygplats / self service kiosk|arboga|2026-10-30|2026-11-02||katrineholm|stockholm bromma flygplats / self service kiosk|2026-11-02|2026-11-03",
   "par:stockholm arlanda flygplats / self service kiosk|arboga|2026-10-30|2026-11-02||katrineholm|stockholm centralstation / self service kiosk|2026-11-02|2026-11-03",
   "strack:kiruna ap|luleå bilbolaget / self service kiosk|2026-11-02|2026-11-03",
-  "strack:gällivare dt|luleå flygplats / self service kiosk|2026-10-26|2026-11-02"
+  "strack:gällivare dt|luleå flygplats / self service kiosk|2026-10-26|2026-11-02",
+  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-06|2026-11-08||mora dt|stockholm arlanda flygplats / self service kiosk|2026-10-26|2026-11-06",
+  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-06|2026-11-08||mora dt|stockholm centralstation / self service kiosk|2026-10-26|2026-11-06"
  ],
  "senast_kord": "2026-11-03"
 }
