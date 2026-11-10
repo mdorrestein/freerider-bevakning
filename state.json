@@ -1,11 +1,5 @@
 {
  "larmade": [
-  "par:stockholm centralstation / self service kiosk|oslo sentrum|2026-08-17|2026-08-19||oslo lufthavn|stockholm östermalmstorg|2026-08-17|2026-08-20",
-  "par:stockholm arlanda flygplats / self service kiosk|örnsköldsvik bilbolaget / self service kiosk|2026-08-17|2026-08-19||örnsköldsvik bilbolaget / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-19",
-  "par:stockholm centralstation / self service kiosk|luleå flygplats / self service kiosk|2026-08-12|2026-08-19||luleå flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-16|2026-08-18",
-  "par:stockholm kungsholmen/self service kiosk|göteborg landvetter flygplats / self service kiosk|2026-08-17|2026-08-17||varberg & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-21",
-  "par:stockholm östermalmstorg|göteborg landvetter flygplats / self service kiosk|2026-08-17|2026-08-18||varberg & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-21",
-  "par:uppsala dt/self service kiosk|göteborg västra frölunda (bilia) / self service kiosk|2026-08-17|2026-08-18||varberg & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-21",
   "par:stockholm centralstation / self service kiosk|göteborg landvetter flygplats / self service kiosk|2026-08-17|2026-08-17||varberg & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-21",
   "par:stockholm centralstation / self service kiosk|göteborg landvetter flygplats / self service kiosk|2026-08-17|2026-08-17||varberg & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-18",
   "par:stockholm bromma flygplats / self service kiosk|oslo lufthavn|2026-08-17|2026-08-19||oslo lufthavn|stockholm arlanda flygplats / self service kiosk|2026-08-17|2026-08-19",
@@ -299,7 +293,13 @@
   "strack:kiruna ap|luleå flygplats / self service kiosk|2026-11-04|2026-11-08",
   "par:stockholm arlanda flygplats / self service kiosk|borlänge rolf ericson bil / self service kiosk|2026-11-02|2026-11-08||falun rolf ericson bil / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-06|2026-11-09",
   "par:stockholm centralstation / self service kiosk|västerås bilia/self service kiosk|2026-11-05|2026-11-06||eskilstuna / bilia|stockholm arlanda flygplats / self service kiosk|2026-11-06|2026-11-09",
-  "par:stockholm arlanda flygplats / self service kiosk|ludvika dt|2026-11-02|2026-11-08||falun rolf ericson bil / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-06|2026-11-09"
+  "par:stockholm arlanda flygplats / self service kiosk|ludvika dt|2026-11-02|2026-11-08||falun rolf ericson bil / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-06|2026-11-09",
+  "par:stockholm arlanda flygplats / self service kiosk|karlstad|2026-11-09|2026-11-10||karlstad|stockholm arlanda flygplats / self service kiosk|2026-11-09|2026-11-11",
+  "par:stockholm centralstation / self service kiosk|karlstad|2026-11-09|2026-11-10||karlstad|stockholm arlanda flygplats / self service kiosk|2026-11-09|2026-11-11",
+  "par:stockholm arlanda flygplats / self service kiosk|borlänge rolf ericson bil / self service kiosk|2026-11-02|2026-11-12||falun rolf ericson bil / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-10|2026-11-11",
+  "par:stockholm arlanda flygplats / self service kiosk|borlänge rolf ericson bil / self service kiosk|2026-11-02|2026-11-12||falun rolf ericson bil / self service kiosk|stockholm centralstation / self service kiosk|2026-11-10|2026-11-12",
+  "par:stockholm östermalmstorg|linköping (tage rejmes)/ self service kiosk|2026-11-10|2026-11-10||norrköping - rejmes/ self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-10|2026-11-11",
+  "strack:gällivare dt|luleå flygplats / self service kiosk|2026-11-10|2026-11-13"
  ],
- "senast_kord": "2026-11-09"
+ "senast_kord": "2026-11-10"
 }
