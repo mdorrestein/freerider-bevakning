@@ -1,9 +1,5 @@
 {
  "larmade": [
-  "par:stockholm arlanda flygplats / self service kiosk|falun rolf ericson bil / self service kiosk|2026-08-17|2026-08-20||falun rolf ericson bil / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-18|2026-08-19",
-  "par:stockholm arlanda flygplats / self service kiosk|falun rolf ericson bil / self service kiosk|2026-08-17|2026-08-20||falun rolf ericson bil / self service kiosk|stockholm bromma flygplats / self service kiosk|2026-08-18|2026-08-20",
-  "par:stockholm täby (bilia)|söderhamn & self service kiosk|2026-08-17|2026-08-18||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-18|2026-08-19",
-  "par:stockholm täby (bilia)|söderhamn & self service kiosk|2026-08-17|2026-08-18||söderhamn & self service kiosk|stockholm bromma flygplats / self service kiosk|2026-08-18|2026-08-20",
   "par:stockholm täby (bilia)|bollnäs & self service kiosk|2026-08-17|2026-08-18||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-18|2026-08-19",
   "par:stockholm arlanda flygplats / self service kiosk|göteborg landvetter flygplats / self service kiosk|2026-08-19|2026-08-24||göteborg landvetter flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-20|2026-08-21",
   "par:uppsala dt/self service kiosk|göteborg västra frölunda (bilia) / self service kiosk|2026-08-17|2026-08-19||göteborg landvetter flygplats / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-20|2026-08-21",
@@ -299,7 +295,11 @@
   "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm bromma flygplats / self service kiosk|2026-11-10|2026-11-18",
   "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm centralstation / self service kiosk|2026-11-10|2026-11-18",
   "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm hammarby sjöstad volvo car retail/self service|2026-11-10|2026-11-18",
-  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm kista volvo car retail / self service kiosk|2026-11-10|2026-11-18"
+  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm kista volvo car retail / self service kiosk|2026-11-10|2026-11-18",
+  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm kungsängen self service kiosk|2026-11-10|2026-11-18",
+  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm solna bilia & ssk|2026-11-10|2026-11-18",
+  "par:stockholm arlanda flygplats / self service kiosk|mora dt|2026-11-14|2026-11-16||mora dt|stockholm upplands väsby - truckvägen 20|2026-11-10|2026-11-18",
+  "par:stockholm centralstation / self service kiosk|bollnäs & self service kiosk|2026-11-11|2026-11-13||ljusdal|stockholm arlanda flygplats / self service kiosk|2026-11-12|2026-11-16"
  ],
  "senast_kord": "2026-11-13"
 }
