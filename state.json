@@ -1,7 +1,5 @@
 {
  "larmade": [
-  "par:stockholm nacka (bilia)|jönköping nybergsbil / self service kiosk|2026-08-19|2026-08-20||vetlanda / volvo|stockholm bromma flygplats / self service kiosk|2026-08-18|2026-08-20",
-  "par:stockholm bromma flygplats / self service kiosk|oslo lufthavn|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-21",
   "par:stockholm bromma flygplats / self service kiosk|oslo lufthavn|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21",
   "par:stockholm bromma flygplats / self service kiosk|oslo sentralstasjon|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-21",
   "par:stockholm bromma flygplats / self service kiosk|oslo sentralstasjon|2026-08-17|2026-08-19||oslo sentralstasjon|stockholm centralstation / self service kiosk|2026-08-19|2026-08-21",
@@ -299,7 +297,9 @@
   "strack:kiruna ap|luleå flygplats / self service kiosk|2026-11-19|2026-11-23",
   "strack:kiruna ap|luleå flygplats / self service kiosk|2026-11-19|2026-11-25",
   "par:stockholm arlanda flygplats / self service kiosk|eskilstuna / bilia|2026-11-23|2026-11-27||katrineholm|stockholm arlanda flygplats / self service kiosk|2026-11-23|2026-11-24",
-  "par:stockholm haninge (bilia)|nyköping & self service kiosk|2026-11-23|2026-11-25||katrineholm|stockholm arlanda flygplats / self service kiosk|2026-11-23|2026-11-24"
+  "par:stockholm haninge (bilia)|nyköping & self service kiosk|2026-11-23|2026-11-25||katrineholm|stockholm arlanda flygplats / self service kiosk|2026-11-23|2026-11-24",
+  "par:stockholm haninge (bilia)|nyköping & self service kiosk|2026-11-23|2026-11-25||katrineholm|stockholm arlanda flygplats / self service kiosk|2026-11-23|2026-11-25",
+  "par:uppsala dt/self service kiosk|örebro tage rejmes / self service kiosk|2026-11-24|2027-03-06||katrineholm|stockholm arlanda flygplats / self service kiosk|2026-11-23|2026-11-25"
  ],
  "senast_kord": "2026-11-24"
 }
