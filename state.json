@@ -1,6 +1,5 @@
 {
  "larmade": [
-  "par:stockholm täby (bilia)|söderhamn & self service kiosk|2026-08-17|2026-08-20||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-20",
   "par:stockholm täby (bilia)|bollnäs & self service kiosk|2026-08-17|2026-08-20||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-20",
   "par:stockholm täby (bilia)|hudiksvall & self service kiosk|2026-08-17|2026-08-20||söderhamn & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-08-19|2026-08-20",
   "par:uppsala dt/self service kiosk|norrköping - rejmes/ self service kiosk|2026-08-05|2026-08-21||norrköping - rejmes/ self service kiosk|stockholm kungsholmen/self service kiosk|2026-08-21|2026-08-21",
@@ -299,7 +298,8 @@
   "par:uppsala dt/self service kiosk|örebro tage rejmes / self service kiosk|2026-11-24|2027-03-06||örebro tage rejmes / self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-25|2027-03-06",
   "par:uppsala dt/self service kiosk|örebro tage rejmes / self service kiosk|2026-11-24|2027-03-06||örebro tage rejmes / self service kiosk|stockholm centralstation / self service kiosk|2026-11-23|2027-03-06",
   "par:uppsala dt/self service kiosk|örebro tage rejmes / self service kiosk|2026-11-24|2027-03-06||örebro tage rejmes / self service kiosk|stockholm kungsholmen/self service kiosk|2026-11-23|2027-03-06",
-  "par:uppsala dt/self service kiosk|örebro tage rejmes / self service kiosk|2026-11-24|2027-03-06||örebro tage rejmes / self service kiosk|stockholm söder skanstull/self service kiosk|2026-11-25|2027-03-06"
+  "par:uppsala dt/self service kiosk|örebro tage rejmes / self service kiosk|2026-11-24|2027-03-06||örebro tage rejmes / self service kiosk|stockholm söder skanstull/self service kiosk|2026-11-25|2027-03-06",
+  "par:stockholm haninge (bilia)|nyköping & self service kiosk|2026-11-23|2026-11-30||nyköping & self service kiosk|stockholm arlanda flygplats / self service kiosk|2026-11-30|2026-11-30"
  ],
- "senast_kord": "2026-11-26"
+ "senast_kord": "2026-11-27"
 }
